@@ -1,6 +1,5 @@
 package com.sukinkea.cart;
 
-import com.bookstore.cart.model.*;
 import com.sukinkea.cart.controller.CartController;
 import com.sukinkea.cart.model.CartItem;
 import com.sukinkea.cart.model.SkuDetails;

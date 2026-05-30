@@ -1,4 +1,4 @@
-package com.sukinkea.cart.CartConstants;
+package com.sukinkea.cart.constants;
 
 public class Constants {
     public static final int MAX_QUANTITY = 2;
